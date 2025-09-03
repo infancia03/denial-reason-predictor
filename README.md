@@ -1,4 +1,4 @@
-# Healthcare Denial Reason Predictor 
+# Healthcare Denial Management 
 
 A Streamlit-powered machine learning application designed for Revenue Cycle Management (RCM) professionals to analyze healthcare claim denials, predict missing denial reasons, and identify actionable insights to reduce denials and improve collections.
 
