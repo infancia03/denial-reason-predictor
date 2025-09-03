@@ -125,7 +125,7 @@ LogisticRegression(
 - `currency_to_float()`: Robust currency parsing with error handling
 - `train_and_predict()`: Complete ML pipeline for training and prediction
 
-## 📊 Output & Insights
+##  Output & Insights
 
 ### Model Evaluation
 - **Accuracy Score**: Overall prediction accuracy
@@ -143,7 +143,7 @@ LogisticRegression(
 - **Corrective Actions**: Specific steps to reduce denials
 - **Process Improvements**: Workflow and documentation recommendations
 
-## 🏥 Common Healthcare Denial Codes
+##  Common Healthcare Denial Codes
 
 | Code | Description | Typical Root Cause |
 |------|-------------|-------------------|
@@ -157,4 +157,3 @@ LogisticRegression(
 
 ---
 
-**Made with ❤️ for Healthcare Revenue Cycle Management**
